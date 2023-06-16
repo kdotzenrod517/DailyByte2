@@ -1,49 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00a73f9c-e21c-4449-b9e4-0d03c786da05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/VacuumCleaner.java" afterDir="false" />
+    <list default="true" id="f937e438-37ba-4dac-9ac6-7aa428cfadc4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyByte2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/CorrectCapitalization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
+  <component name="ProjectId" id="2RJ194kmuhtgooD3Gkesc9dW0P3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectId" id="2RAVjnk11Wp9hNqSoc0brPxqT3C" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/kdotz/IdeaProjects/DailyByte2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.VacuumCleaner">
-    <configuration name="IsValidPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="palindrome.IsValidPalindrome" />
+  <component name="RunManager">
+    <configuration name="CorrectCapitalization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.CorrectCapitalization" />
       <module name="DailyByte2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="palindrome.*" />
+          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -51,28 +49,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VacuumCleaner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VacuumCleaner" />
-      <module name="DailyByte2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VacuumCleaner" />
-        <item itemvalue="Application.IsValidPalindrome" />
+        <item itemvalue="Application.CorrectCapitalization" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="00a73f9c-e21c-4449-b9e4-0d03c786da05" name="Changes" comment="" />
-      <created>1686693011983</created>
+      <changelist id="f937e438-37ba-4dac-9ac6-7aa428cfadc4" name="Changes" comment="" />
+      <created>1686953216224</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1686693011983</updated>
+      <updated>1686953216224</updated>
     </task>
     <servers />
   </component>
@@ -86,5 +76,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
