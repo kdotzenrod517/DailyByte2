@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f937e438-37ba-4dac-9ac6-7aa428cfadc4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/string/LongestCommonPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/palindrome/ValidPalindromeWithRemoval.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/kdotz/IdeaProjects/DailyByte2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LongestCommonPrefix">
+  <component name="RunManager" selected="Application.ValidPalindromeWithRemoval">
     <configuration name="CorrectCapitalization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string.CorrectCapitalization" />
       <module name="DailyByte2" />
@@ -68,8 +67,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValidPalindromeWithRemoval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="palindrome.ValidPalindromeWithRemoval" />
+      <module name="DailyByte2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="palindrome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidPalindromeWithRemoval" />
         <item itemvalue="Application.LongestCommonPrefix" />
         <item itemvalue="Application.CorrectCapitalization" />
       </list>
