@@ -30,7 +30,7 @@ public class ValidAnagram {
                 return false;
             }
 
-            map.put(c, map.get(c, 0) - 1);
+            map.put(c, map.get(c) - 1);
         }
 
         return true;
