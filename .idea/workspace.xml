@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f937e438-37ba-4dac-9ac6-7aa428cfadc4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/intersection/IntersectionOfNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/UncommonWords.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/kdotz/IdeaProjects/DailyByte2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.IntersectionOfNumbers">
+  <component name="RunManager" selected="Application.UncommonWords">
     <configuration name="FirstUniqueCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string.FirstUniqueCharacter" />
       <module name="DailyByte2" />
@@ -68,15 +67,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JewelsAndStones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JewelsAndStones" />
+    <configuration name="SpotTheDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.SpotTheDifference" />
       <module name="DailyByte2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpotTheDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.SpotTheDifference" />
+    <configuration name="UncommonWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.UncommonWords" />
       <module name="DailyByte2" />
       <extension name="coverage">
         <pattern>
@@ -103,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UncommonWords" />
         <item itemvalue="Application.IntersectionOfNumbers" />
         <item itemvalue="Application.SpotTheDifference" />
         <item itemvalue="Application.FirstUniqueCharacter" />
         <item itemvalue="Application.ValidAnagram" />
-        <item itemvalue="Application.JewelsAndStones" />
       </list>
     </recent_temporary>
   </component>
