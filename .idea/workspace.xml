@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f937e438-37ba-4dac-9ac6-7aa428cfadc4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedlists/RemoveNthToLastNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedlists/RemoveValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlists/FindMiddleElement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +40,13 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/kdotz/IdeaProjects/DailyByte2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RemoveValue">
-    <configuration name="IntersectionOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intersection.IntersectionOfNumbers" />
+  <component name="RunManager" selected="Application.FindMiddleElement">
+    <configuration name="FindMiddleElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlists.FindMiddleElement" />
       <module name="DailyByte2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intersection.*" />
+          <option name="PATTERN" value="linkedlists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindMiddleElement" />
         <item itemvalue="Application.RemoveValue" />
         <item itemvalue="Application.RemoveNthToLastNode" />
         <item itemvalue="Application.MergeSortedLinkedLists" />
         <item itemvalue="Application.UncommonWords" />
-        <item itemvalue="Application.IntersectionOfNumbers" />
       </list>
     </recent_temporary>
   </component>
