@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f937e438-37ba-4dac-9ac6-7aa428cfadc4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/linkedlists/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stacks/ValidateCharacters.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/kdotz/IdeaProjects/DailyByte2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ReverseLinkedList">
+  <component name="RunManager" selected="Application.ValidateCharacters">
     <configuration name="ContainsCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="linkedlists.ContainsCycle" />
       <module name="DailyByte2" />
@@ -56,19 +56,6 @@
     </configuration>
     <configuration name="FindMiddleElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="linkedlists.FindMiddleElement" />
-      <module name="DailyByte2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="linkedlists.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlists.RemoveValue" />
       <module name="DailyByte2" />
       <extension name="coverage">
         <pattern>
@@ -106,13 +93,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValidateCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stacks.ValidateCharacters" />
+      <module name="DailyByte2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stacks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidateCharacters" />
         <item itemvalue="Application.ReverseLinkedList" />
         <item itemvalue="Application.ReturnStartOfCycle" />
         <item itemvalue="Application.ContainsCycle" />
         <item itemvalue="Application.FindMiddleElement" />
-        <item itemvalue="Application.RemoveValue" />
       </list>
     </recent_temporary>
   </component>
