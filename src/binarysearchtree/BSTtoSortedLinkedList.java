@@ -5,6 +5,8 @@ import java.util.List;
 
 public class BSTtoSortedLinkedList {
 
+    // Runtime: O(N) where N is the number of nodes in our tree.
+    // Space complexity: O(N) where N is the number of nodes in our tree.
     public TreeNode convertBSTToSortedLinkedList(TreeNode root) {
         List<Integer> values = new ArrayList<>();
         inorder(root, values);
