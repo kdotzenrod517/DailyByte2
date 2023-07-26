@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f937e438-37ba-4dac-9ac6-7aa428cfadc4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/binarysearchtree/MinDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BFS/GatherLevels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarysearchtree/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binarysearchtree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarysearchtree/TreeNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +43,11 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/kdotz/IdeaProjects/DailyByte2&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="BFS" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.GreaterElements">
     <configuration name="CompareKeystrokes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stacks.CompareKeystrokes" />
