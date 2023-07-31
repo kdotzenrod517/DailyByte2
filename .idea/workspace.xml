@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f937e438-37ba-4dac-9ac6-7aa428cfadc4" name="Changes" comment="" />
+    <list default="true" id="f937e438-37ba-4dac-9ac6-7aa428cfadc4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/backtracking/StringPermutations.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +45,7 @@
       <recent name="BFS" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GreaterElements">
+  <component name="RunManager" selected="Application.StringPermutations">
     <configuration name="CompareKeystrokes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stacks.CompareKeystrokes" />
       <module name="DailyByte2" />
@@ -83,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlists.ReverseLinkedList" />
+    <configuration name="StringPermutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backtracking.StringPermutations" />
       <module name="DailyByte2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedlists.*" />
+          <option name="PATTERN" value="backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringPermutations" />
         <item itemvalue="Application.GreaterElements" />
         <item itemvalue="Application.RemoveAdjacentDuplicates" />
         <item itemvalue="Application.CompareKeystrokes" />
         <item itemvalue="Application.ValidateCharacters" />
-        <item itemvalue="Application.ReverseLinkedList" />
       </list>
     </recent_temporary>
   </component>
