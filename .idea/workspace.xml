@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f937e438-37ba-4dac-9ac6-7aa428cfadc4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/backtracking/StringPermutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtracking/UniqueCombinations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,7 @@
       <recent name="BFS" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringPermutations">
+  <component name="RunManager" selected="Application.UniqueCombinations">
     <configuration name="CompareKeystrokes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stacks.CompareKeystrokes" />
       <module name="DailyByte2" />
@@ -98,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidateCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stacks.ValidateCharacters" />
+    <configuration name="UniqueCombinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backtracking.UniqueCombinations" />
       <module name="DailyByte2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stacks.*" />
+          <option name="PATTERN" value="backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UniqueCombinations" />
         <item itemvalue="Application.StringPermutations" />
         <item itemvalue="Application.GreaterElements" />
         <item itemvalue="Application.RemoveAdjacentDuplicates" />
         <item itemvalue="Application.CompareKeystrokes" />
-        <item itemvalue="Application.ValidateCharacters" />
       </list>
     </recent_temporary>
   </component>
