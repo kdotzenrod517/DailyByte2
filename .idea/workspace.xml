@@ -43,9 +43,9 @@
       <recent name="BFS" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UniqueCombinations">
-    <configuration name="CompareKeystrokes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stacks.CompareKeystrokes" />
+  <component name="RunManager" selected="Application.MaxSubarray">
+    <configuration name="GreaterElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stacks.GreaterElements" />
       <module name="DailyByte2" />
       <extension name="coverage">
         <pattern>
@@ -57,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreaterElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stacks.GreaterElements" />
+    <configuration name="MaxSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamicprogramming.MaxSubarray" />
       <module name="DailyByte2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stacks.*" />
+          <option name="PATTERN" value="dynamicprogramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxSubarray" />
         <item itemvalue="Application.UniqueCombinations" />
         <item itemvalue="Application.StringPermutations" />
         <item itemvalue="Application.GreaterElements" />
         <item itemvalue="Application.RemoveAdjacentDuplicates" />
-        <item itemvalue="Application.CompareKeystrokes" />
       </list>
     </recent_temporary>
   </component>
