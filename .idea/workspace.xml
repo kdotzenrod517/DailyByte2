@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f937e438-37ba-4dac-9ac6-7aa428cfadc4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/LongestIncreasingSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/PaintingHouses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f937e438-37ba-4dac-9ac6-7aa428cfadc4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,26 +43,13 @@
       <recent name="BFS" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaxSubarray">
+  <component name="RunManager" selected="Application.dynamicprogramming.MaxSubarray">
     <configuration name="GreaterElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stacks.GreaterElements" />
       <module name="DailyByte2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="stacks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dynamicprogramming.MaxSubarray" />
-      <module name="DailyByte2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dynamicprogramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,9 +96,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="dynamicprogramming.MaxSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamicprogramming.MaxSubarray" />
+      <module name="DailyByte2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dynamicprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaxSubarray" />
+        <item itemvalue="Application.dynamicprogramming.MaxSubarray" />
         <item itemvalue="Application.UniqueCombinations" />
         <item itemvalue="Application.StringPermutations" />
         <item itemvalue="Application.GreaterElements" />
