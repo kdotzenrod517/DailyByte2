@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f937e438-37ba-4dac-9ac6-7aa428cfadc4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/createdatastructures/CreateATrie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/CountingPrimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/bitmanipulation/ComplementaryNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/matrix/FindFriends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarysearchtree/IterativeInorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/ReverseVowels.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
