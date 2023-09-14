@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f937e438-37ba-4dac-9ac6-7aa428cfadc4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CompressCharArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFS/DistanceToRabbitHoles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,10 +46,23 @@
       <recent name="BFS" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CompressCharArray">
+  <component name="RunManager" selected="Application.DistanceToRabbitHoles">
     <configuration name="CompressCharArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CompressCharArray" />
       <module name="DailyByte2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DistanceToRabbitHoles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFS.DistanceToRabbitHoles" />
+      <module name="DailyByte2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DFS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -79,19 +93,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueCombinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backtracking.UniqueCombinations" />
-      <module name="DailyByte2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="backtracking.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="dynamicprogramming.MaxSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dynamicprogramming.MaxSubarray" />
       <module name="DailyByte2" />
@@ -107,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DistanceToRabbitHoles" />
         <item itemvalue="Application.CompressCharArray" />
         <item itemvalue="Application.NumIslands" />
         <item itemvalue="Application.Subsequence" />
         <item itemvalue="Application.dynamicprogramming.MaxSubarray" />
-        <item itemvalue="Application.UniqueCombinations" />
       </list>
     </recent_temporary>
   </component>
